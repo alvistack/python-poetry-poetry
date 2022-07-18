@@ -1,0 +1,3 @@
+python-poetry source: no-debian-changes
+python-poetry source: source-contains-prebuilt-windows-binary
+python-poetry source: source-package-encodes-python-version

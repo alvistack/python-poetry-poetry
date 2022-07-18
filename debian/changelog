@@ -1,0 +1,5 @@
+python-poetry (100:1.1.13-1) UNRELEASED; urgency=medium
+
+  * https://github.com/python-poetry/poetry/releases/tag/1.1.13
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Fri, 11 Feb 2022 08:44:51 +0800
