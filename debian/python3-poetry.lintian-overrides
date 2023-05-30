@@ -1,0 +1,4 @@
+python3-poetry: copyright-without-copyright-notice
+python3-poetry: initial-upload-closes-no-bugs
+python3-poetry: no-manual-page
+python3-poetry: zero-byte-file-in-doc-directory
